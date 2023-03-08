@@ -1,0 +1,58 @@
+.body {
+    background-color: rgb(255, 255, 255);
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background: url(../img/bkgr.png);
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    font-family: monospace;
+}
+
+#titulo {
+
+    color: rgb(255, 255, 255);
+    width: 10;
+}
+
+#logo,
+header h1 {
+    display: inline-block;
+    height: 100px;
+}
+
+.ap {
+    height: 70px;
+}
+
+article {
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+
+}
+
+footer {
+    background-color: rgba(0, 60, 255, 0.726);
+    color: white;
+    text-align: center;
+}
+
+.im1 {
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+#tcl{
+    text-align: left;
+}
+#p1{
+    height: 20;
+}
